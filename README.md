@@ -91,14 +91,11 @@ D'aquesta manera, l'arquitectura i la impressió 3D no només es complementen, s
 
 Aquesta hibridació entre arquitectura i impressió 3D marca un abans i un després en la manera de concebre els espais construïts. La combinació de l'arquitectura tradicional amb la tecnologia digital de la impressió 3D permet nous models de disseny, fabricació i construcció que són més eficients, personalitzables i adaptables als nous reptes de la sostenibilitat i la complexitat del món modern. A mesura que la tecnologia de la impressió 3D avança, és probable que aquesta hibridació es faci cada cop més present en la nostra vida quotidiana, donant lloc a una nova generació d'edificis i espais que responen a les necessitats dels individus i les societats.
 
-
+___
 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-
-
-___
 
 Llicències Creative Commons:
 - Imatge 1: Henry Ridgwell, Public domain, 
