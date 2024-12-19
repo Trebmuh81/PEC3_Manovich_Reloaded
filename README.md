@@ -95,9 +95,11 @@ ___
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* Muñoz-Justicia, Juan (2014): "Conocimiento Abierto y Tecnología".
+* McMillan, Robert (2012). "Lord of the Files: How GitHub Tamed Free Software (And More)".
 
 Llicències Creative Commons:
-- Imatge 1: Henry Ridgwell, Public domain, 
-- Imatge 2: By Video Autor: Alfredo MilanoDrone views CC BY 2.5
+- Imatge 1: Henry Ridgwell, Public domain, https://commons.wikimedia.org/wiki/File:Timelapse_of_3D-printer_construction_of_the_clay_house_%22Tecla%22_v1.0_(cropped).gif#
+- Imatge 2: By Video Autor: Alfredo MilanoDrone views CC BY 2.5 https://commons.wikimedia.org/wiki/File:49_Watford_Way,_Hendon,_London,_United_Kingdom.png#
 
